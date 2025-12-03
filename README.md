@@ -60,22 +60,12 @@ The workflow mirrors the production logic I designed:
 
 ## 💡 Why This Matters
 
-This reconstruction illustrates how I:
-
-- Designed an automated claims review workflow  
-- Defined clear decision rules and validation logic  
-- Collaborated with engineering to build the evaluation agent  
-- Used LLM planning nodes and utility functions  
-- Built human-vs-agent validation pipelines  
-- Performed error analysis and quality checks  
-
 While no proprietary data or logic is shared, this demonstrates my:
 
-**➜ Technical fluency  
 ➜ Health insurance domain expertise  
 ➜ ML + rule-based workflow design  
 ➜ Collaboration with engineering and data science teams  
-➜ Experience validating agent performance using reference data**
-
-Running `claim_approval_agent.py` generates:
+➜ Experience validating agent performance using reference data
+- Clear decision rules and validation logic  
+- Ability to build human-vs-agent validation pipelines  
 
