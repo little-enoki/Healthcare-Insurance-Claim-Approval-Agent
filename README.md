@@ -1,5 +1,5 @@
 # Health Insurance Claims Approval Agent
-This repository contains a safe, fully synthetic reconstruction of a claim approval agent I developed. The goal of the original system was to automate part of the medical claim review workflow by combining structured data validation with an LLM-based reasoning layer.
+This repository contains a safe, fully synthetic reconstruction of a claim approval agent I developed in my previous role. The goal of the original system was to automate part of the medical claim review workflow by combining structured data validation with an LLM-based reasoning layer.
 
 All examples, datasets, and logic in this repo are fabricated for demonstration purposes only.
 
@@ -55,16 +55,6 @@ The workflow mirrors the production logic I designed:
    - Any Fail → **Route for Review**
 
 6. **Export results** (Excel)
-
----
-
-## 🤖 LLM Reasoning Layer (Simplified)
-
-
-This spreadsheet contains:
-- Patient data  
-- Pass/Fail checks  
-- Final Decision  
 
 ---
 
