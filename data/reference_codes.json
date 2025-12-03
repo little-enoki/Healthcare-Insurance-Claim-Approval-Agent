@@ -1,0 +1,12 @@
+{
+  "procedure_codes": {
+    "99213": "Office/outpatient visit",
+    "87070": "Culture, bacterial",
+    "93000": "Electrocardiogram"
+  },
+  "diagnosis_codes": {
+    "J10": "Influenza due to other identified influenza virus",
+    "J11": "Influenza, unspecified",
+    "I10": "Essential hypertension"
+  }
+}
