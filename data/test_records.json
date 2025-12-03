@@ -1,0 +1,20 @@
+[
+  {
+    "patient_id": "P001",
+    "age": 34,
+    "gender": "Female",
+    "diagnosis_codes": ["J10"],
+    "procedure_code": "99213",
+    "preauth": true,
+    "policy_id": "POL001"
+  },
+  {
+    "patient_id": "P002",
+    "age": 72,
+    "gender": "Male",
+    "diagnosis_codes": ["I10"],
+    "procedure_code": "93000",
+    "preauth": false,
+    "policy_id": "POL002"
+  }
+]
